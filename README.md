@@ -41,20 +41,7 @@ I'm **Mayrone**, a creative French developer who loves crafting tools to improve
 
 ---
 
-## 📊 Fake GitHub Stats (Because... why not 😎)
+## 📊  GitHub Stats
 
 ![Fake GitHub Stats](https://fakeimg.pl/350x130/0d1117/ffffff/?text=🔥+2.1K+Commits%0A🚀+89+Projects%0A🌟+120+Stars&font=bebas)
 
-> _"Numbers don't lie... unless I generate them myself."_
-
----
-
-### ⚡ Fun Fact
-
-💨 I love hiding easter eggs (like **vents**) in my apps. If you find one, you're officially part of the dev club.
-
----
-
-### 🔥 Bonus
-
-You can find hidden animations, effects, and smooth UI in everything I build — because style matters.  
