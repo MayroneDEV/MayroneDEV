@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Mayrone
+# 👋 Hey, I'm TOQKY
 
 > 💻 Young dev building tools, bots, and experiences across Windows, Roblox, and the web.
 
@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-I'm **Mayrone**, a creative French developer who loves crafting tools to improve systems, building Discord bots, and developing Roblox games. I enjoy optimizing stuff, experimenting with macOS on PC (Hackintosh), and turning bold ideas into smooth user experiences.
+I'm **TOQKY**, a creative French developer who loves crafting tools to improve systems, building Discord bots, and developing Roblox games. I enjoy optimizing stuff, experimenting with macOS on PC (Hackintosh), and turning bold ideas into smooth user experiences.
 
 ---
 
@@ -37,11 +37,6 @@ I'm **Mayrone**, a creative French developer who loves crafting tools to improve
 ## 📫 Contact Me
 
 [![Website](https://img.shields.io/badge/Website-guns.lol%2Fmayrone-0e76a8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://guns.lol/mayrone)
-[![Discord](https://img.shields.io/badge/Discord-may.pal-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/may.pal)
+[![Discord](https://img.shields.io/badge/Discord-.toqky-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/.toqky)
 
 ---
-
-## 📊  GitHub Stats
-
-![Fake GitHub Stats](https://fakeimg.pl/350x130/0d1117/ffffff/?text=🔥+2.1K+Commits%0A🚀+89+Projects%0A🌟+120+Stars&font=bebas)
-
